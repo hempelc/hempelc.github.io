@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gunnar Jacobs | Christopher (Chris) Hempel</title>
+    <link>https://hempelc.github.io/author/gunnar-jacobs/</link>
+      <atom:link href="https://hempelc.github.io/author/gunnar-jacobs/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gunnar Jacobs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hempelc.github.io/img/avatar.jpg</url>
+      <title>Gunnar Jacobs</title>
+      <link>https://hempelc.github.io/author/gunnar-jacobs/</link>
+    </image>
+    
+    <item>
+      <title>Using Environmental DNA to Monitor the Reintroduction Success of the Rhine Sculpin (Cottus rhenanus) in a Restored Stream</title>
+      <link>https://hempelc.github.io/publication/hempel-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hempelc.github.io/publication/hempel-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
